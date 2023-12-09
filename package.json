@@ -1,0 +1,29 @@
+{
+  "name": "node.js-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igrok1803444/node.js-hw-01.git"
+  },
+  "author": "Vialov Vladyslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igrok1803444/node.js-hw-01/issues"
+  },
+  "homepage": "https://github.com/igrok1803444/node.js-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^5.0.4"
+  }
+}
